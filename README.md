@@ -37,3 +37,7 @@ T-test for lot 3
 ![t-test lot 3](https://github.com/jolwig/MechaCar_Statistical_Analysis/blob/main/MechaCar_linear_regression/t-test_lot_3.png)
 
 The p-value for lot 3 is 0.04, which means there is enough evidence to reject the null hypothesis. The mean psi for lot 3 is statistically different from the population mean of 1500.
+
+
+## Study Design: MechaCar vs Competition
+One of the factors that people care about the most when buying a car is the cars appearence. It could be useful to perform an analysis that compares the style ratings of MechaCar cars against competitor cars. We can get this data by paying random subjects to participate in a blind survey where they rate the cars appearance without knowing the brand. We could test the results of the survey by using a one-tailed t-test to determine if there is a difference between MechaCar and a competitor group. The null hypothesis is that there is no statistical difference between the style rating of the two groups. The alternative hypotheseis is that MechaCar does have a higher style rating than the competitor group.

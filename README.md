@@ -1,6 +1,8 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
+For the first part of this analysis, I created a linear regression model to predict MPG
+
 ![p-value](https://github.com/jolwig/MechaCar_Statistical_Analysis/blob/main/MechaCar_linear_regression/p-value.png)
 * Vehichle_length and ground_clearance are least likley to provide a non-random vairance to mpg
 * The p-value is 5.35e-11 which is smaller than the significance level of 0.05 which means the slope of the linear model is not 0.

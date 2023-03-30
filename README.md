@@ -14,7 +14,9 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 Here are the results and findings from the t-tests:
+
 T-test for All Lots
+
 ![t-test all lots](https://github.com/jolwig/MechaCar_Statistical_Analysis/blob/main/MechaCar_linear_regression/t-test_all_lots.png)
 
 The p-value for all lots is 0.06, which means there is not enough evidence to reject the null hypothesis. The mean psi for all lots is not statistically different from the population mean of 1500.

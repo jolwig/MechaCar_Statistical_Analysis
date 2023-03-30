@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-For the first part of this analysis, I created a linear regression model to predict MPG. Here are the findings:
+For the first part of this analysis, I created a linear regression model to predict MPG for MechaCar cars. To create this model, I first read the data from a csv file and then I used the lm() and summary() functions to produce the model. Here are the findings:
 
 ![p-value](https://github.com/jolwig/MechaCar_Statistical_Analysis/blob/main/MechaCar_linear_regression/p-value.png)
 * Vehichle_length and ground_clearance are least likley to provide a non-random vairance to mpg

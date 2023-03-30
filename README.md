@@ -11,3 +11,9 @@
 ![lot_summary](https://github.com/jolwig/MechaCar_Statistical_Analysis/blob/main/MechaCar_linear_regression/lot_summary.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The total variance for all of the lots is 62.29, which meets the criteria. Both lots 1 and 2 had a variance well bellow 100 but lot 3 had a variance of 170.29 which is above the maximum limit.
+
+## T-Tests on Suspension Coils
+![t-test all lots](https://github.com/jolwig/MechaCar_Statistical_Analysis/blob/main/MechaCar_linear_regression/t-test_all_lots.png)
+![t-test lot 1](https://github.com/jolwig/MechaCar_Statistical_Analysis/blob/main/MechaCar_linear_regression/t-test_lot_1.png)
+![t-test lot 2](https://github.com/jolwig/MechaCar_Statistical_Analysis/blob/main/MechaCar_linear_regression/t-test_lot_2.png)
+![t-test lot 3](https://github.com/jolwig/MechaCar_Statistical_Analysis/blob/main/MechaCar_linear_regression/t-test_lot_3.png)
